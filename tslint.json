@@ -2,3 +2,6 @@
   "extends": [
     "tslint-react",
     "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "ter-indent": false,
