@@ -6,3 +6,4 @@
   "rules": {
     "ter-indent": false,
     "no-commented-out-code": false,
+    "jsx-no-multiline-js": false,
