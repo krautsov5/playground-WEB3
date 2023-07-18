@@ -11,3 +11,4 @@
    "jsx-no-lambda": false,
    "ban-types": [
       true,
+     "Number",
