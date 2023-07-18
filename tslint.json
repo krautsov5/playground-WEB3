@@ -9,3 +9,5 @@
     "jsx-no-multiline-js": false,
     "jsx-wrap-multiline": false,
    "jsx-no-lambda": false,
+   "ban-types": [
+      true,
