@@ -12,3 +12,4 @@
    "ban-types": [
       true,
      "Number",
+      "Boolean",
