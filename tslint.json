@@ -15,3 +15,5 @@
       "Boolean",
       "String",
       "Object"
+    ],
+    "prettier": [
