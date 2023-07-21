@@ -18,3 +18,5 @@
     ],
     "prettier": [
       true,
+      {
+        "printWidth": 80,
