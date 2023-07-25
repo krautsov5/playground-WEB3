@@ -26,3 +26,5 @@
     ],
     "quotemark": [
       true,
+      "single",
+      "jsx-double"
