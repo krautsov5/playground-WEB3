@@ -32,3 +32,4 @@
   },
   "linterOptions": {
     "exclude": [
+      "src/contracts/*.ts",
