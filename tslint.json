@@ -34,3 +34,7 @@
     "exclude": [
       "src/contracts/*.ts",
       "node_modules/**/*.ts",
+      "./**/*.js"
+    ]
+  }
+}
