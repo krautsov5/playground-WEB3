@@ -7,3 +7,5 @@
     "lib": ["es2017", "dom"],
     "sourceMap": true,
     "skipLibCheck": true,
+    "allowJs": true,
+    "jsx": "react",
