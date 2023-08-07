@@ -15,3 +15,5 @@
     "noImplicitAny": true,
     "esModuleInterop": true,
     "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedParameters": true,
