@@ -19,3 +19,5 @@
     "noUnusedParameters": true,
     "noUnusedLocals": true,
     "plugins": [{ "name": "tslint-language-service" }],
+    "checkJs": false
+  },
