@@ -21,3 +21,5 @@
     "plugins": [{ "name": "tslint-language-service" }],
     "checkJs": false
   },
+  "exclude": [
+    "node_modules",
