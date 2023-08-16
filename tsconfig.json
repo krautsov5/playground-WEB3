@@ -29,3 +29,4 @@
     "webpack",
     "jest",
     "src/setupTests.ts",
+    "src/components/Editor/defaultScript.js",
