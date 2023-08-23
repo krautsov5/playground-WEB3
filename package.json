@@ -2,3 +2,5 @@
   "name": "web3playground",
   "version": "0.1.0",
   "private": true,
+  "dependencies": {
+    "@babel/core": "7.6.0",
