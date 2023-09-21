@@ -29,3 +29,5 @@
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.14.3",
     "eslint-plugin-react-hooks": "^1.6.1",
+    "ethers": "^5.0.4",
+    "file-loader": "3.0.1",
