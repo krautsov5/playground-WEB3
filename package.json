@@ -31,3 +31,4 @@
     "eslint-plugin-react-hooks": "^1.6.1",
     "ethers": "^5.0.4",
     "file-loader": "3.0.1",
+    "fs-extra": "7.0.1",
