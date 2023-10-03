@@ -47,3 +47,4 @@
     "postcss-flexbugs-fixes": "4.1.0",
     "postcss-loader": "3.0.0",
     "postcss-normalize": "7.0.1",
+    "postcss-preset-env": "6.7.0",
