@@ -54,3 +54,4 @@
     "react-app-polyfill": "^1.0.4",
     "react-dev-utils": "^9.1.0",
     "react-dom": "^16.12.0",
+    "react-monaco-editor": "^0.32.1",
