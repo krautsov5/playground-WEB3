@@ -62,3 +62,4 @@
     "style-loader": "1.0.0",
     "terser-webpack-plugin": "1.4.1",
     "ts-pnp": "1.1.4",
+    "typescript": "3.7.2",
