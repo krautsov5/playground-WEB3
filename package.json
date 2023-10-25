@@ -77,3 +77,5 @@
     "tslint-plugin-prettier": "^2.3.0",
     "tslint-react": "^5.0.0"
   },
+  "scripts": {
+    "start": "node scripts/start.js",
