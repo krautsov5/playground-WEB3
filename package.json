@@ -103,3 +103,5 @@
     ]
   },
   "jest": {
+    "roots": [
+      "<rootDir>/src"
