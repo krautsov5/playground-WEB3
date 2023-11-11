@@ -112,3 +112,6 @@
     ],
     "setupFiles": [
       "react-app-polyfill/jsdom"
+    ],
+    "setupFilesAfterEnv": [],
+    "testMatch": [
