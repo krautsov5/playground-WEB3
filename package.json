@@ -145,3 +145,5 @@
       "jsx",
       "node"
     ],
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
