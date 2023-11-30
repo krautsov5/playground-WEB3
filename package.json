@@ -153,3 +153,5 @@
   "babel": {
     "presets": [
       "react-app"
+    ]
+  }
